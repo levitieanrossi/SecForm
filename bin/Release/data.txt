@@ -1,0 +1,21 @@
+Yiğit Demirkaya,1485,0,0
+Salih Gemici,1709,0,0
+Enes Adıgüzel,1720,0,0
+Bedirhan Altın,1733,0,0
+Abdullah Ardıç,1738,0,0
+Ayşenaz Eski,1759,0,0
+Abdullah Tursun,1760,0,0
+Emre Karaca,1826,0,0
+Emrullah Kılıçer,1840,0,0
+Talha Üğüdücü,1853,0,0
+Efe Uysal,1862,0,0
+Arda Parabaş,1932,0,0
+Semih İlbasmış,1943,0,0
+Enes İlter,1944,0,0
+Irmak Nur Polat,2466,0,0
+Ömer Özdemir,2489,0,0
+Taha Seçgin,3006,0,0
+Emre Yurtsever,3095,0,0
+Muhammet İçten,3096,0,0
+İsmail Kırca,3119,0,0
+Ehad Efe Algül,3190,0,0

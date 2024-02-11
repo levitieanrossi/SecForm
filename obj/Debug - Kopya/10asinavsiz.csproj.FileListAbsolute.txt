@@ -1,0 +1,12 @@
+C:\Users\Caesar\source\repos\10asinavsiz\bin\Debug\10asinavsiz.exe.config
+C:\Users\Caesar\source\repos\10asinavsiz\bin\Debug\10asinavsiz.exe
+C:\Users\Caesar\source\repos\10asinavsiz\bin\Debug\10asinavsiz.pdb
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\10asinavsiz.csproj.AssemblyReference.cache
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\_10asinavsiz.Form1.resources
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\_10asinavsiz.Properties.Resources.resources
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\10asinavsiz.csproj.GenerateResource.cache
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\10asinavsiz.csproj.CoreCompileInputs.cache
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\10asinavsiz.exe
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\10asinavsiz.pdb
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\_10asinavsiz.Basla.resources
+C:\Users\Caesar\source\repos\10asinavsiz\obj\Debug\_10asinavsiz.Admin.resources

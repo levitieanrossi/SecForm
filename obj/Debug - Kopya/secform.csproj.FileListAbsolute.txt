@@ -1,0 +1,11 @@
+C:\Users\Caesar\source\repos\SecForm\bin\Debug\secform.exe
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.csproj.AssemblyReference.cache
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.Admin.resources
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.Basla.resources
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.Form1.resources
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.Properties.Resources.resources
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.csproj.GenerateResource.cache
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.csproj.CoreCompileInputs.cache
+C:\Users\Caesar\source\repos\SecForm\bin\Debug\secform.exe.config
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.exe
+C:\Users\Caesar\source\repos\SecForm\obj\Debug\secform.pdb
